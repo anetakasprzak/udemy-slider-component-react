@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { shortList, list, longList } from "./data";
+import { list } from "./data";
 import { FaQuoteRight } from "react-icons/fa";
 import { FiChevronRight, FiChevronLeft } from "react-icons/fi";
 
